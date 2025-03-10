@@ -25,8 +25,7 @@
 
 ### **Other Tools**   
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) 
-![Maple](https://img.shields.io/badge/Maple-FF5733?style=for-the-badge&logo=maple&logoColor=white)  
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
 
 ---
 
