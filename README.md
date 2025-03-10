@@ -1,11 +1,13 @@
-### Hi there 👋  
- 
-🌱 Currently studying **Computer Science at Babeș-Bolyai University**  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ale-puscas-389525353/)  
+# Hi there 👋  
+
+🌱 Currently pursuing a **Computer Science degree at Babeș-Bolyai University**  
+📫 Feel free to connect with me on **LinkedIn**: [Ale Puscas](https://www.linkedin.com/in/ale-puscas-389525353/)  
+
+---
 
 ## 🚀 Tech Stack  
 
-### **Languages**  
+### **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
