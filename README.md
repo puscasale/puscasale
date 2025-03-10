@@ -23,11 +23,6 @@
 | ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) | ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |  
 |---|---|
 
----
-
-## 📊 GitHub Stats  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=puscasale&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puscasale&layout=compact&theme=radical) |  
-|---|---|
 
 ---
 
